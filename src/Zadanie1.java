@@ -4,5 +4,8 @@ public class Zadanie1 {
         System.out.println("placki");
         System.out.println('z');
         System.out.println("dżemem");
+        System.out.println('i');
+        System.out.println("bitą");
+        System.out.println("śmietaną");
     }
 }
